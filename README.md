@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prostoj
+- 👋 Hi, I’m Vladimir
 - 👀 I’m interested in Internet security, ethical hacking, Python development and cryptography.
 - 💞️ I’m looking to collaborate on as an aspiring Python developer, as well as an aspiring pentest specialist.
 - 📫 How to reach me: email rguliev880@gmail.com
